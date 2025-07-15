@@ -4,6 +4,17 @@ This extension pack brings together a carefully curated collection of VS Code ex
 
 The pack includes extensions for code formatting, snippet management, debugging, Git integration, cloud development, and much more - all selected to create a smooth and efficient development environment.
 
+## [0.0.3] - 2025-07-15
+
+### New Extensions
+
+- String Manipulation extension for advanced text transformation capabilities
+- Enhanced text processing and manipulation tools for developers
+
+### Improvements
+
+- Extension pack now includes 48 carefully selected extensions (up from 47)
+
 ## [0.0.2] - 2025-07-15
 
 ### Added

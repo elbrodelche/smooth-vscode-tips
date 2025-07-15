@@ -2,7 +2,7 @@
   "name": "smooth-vscode-tips",
   "displayName": "Smooth Visual Studio Tips",
   "description": "Extension pack for smooth coding.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "/assets/vscode-tips-mini.png",
   "engines": {
     "vscode": "^1.102.0"
@@ -69,6 +69,7 @@
     "mechatroner.rainbow-csv",
     "mhutchie.git-graph",
     "mkxml.vscode-filesize",
+    "marclipovsky.string-manipulation",
     "monish.regexsnippets",
     "moshfeu.diff-merge",
     "ms-azuretools.vscode-containers",
