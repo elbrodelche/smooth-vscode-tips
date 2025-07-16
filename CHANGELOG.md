@@ -4,16 +4,19 @@ This extension pack brings together a carefully curated collection of VS Code ex
 
 The pack includes extensions for code formatting, snippet management, debugging, Git integration, cloud development, and much more - all selected to create a smooth and efficient development environment.
 
-## [0.0.3] - 2025-07-15
+## [0.0.3] - 2025-07-16
 
 ### New Extensions
 
 - String Manipulation extension for advanced text transformation capabilities
+- Markdown Mermaid extension for creating diagrams and flowcharts in markdown
 - Enhanced text processing and manipulation tools for developers
+- Improved documentation capabilities with diagram support
 
 ### Improvements
 
-- Extension pack now includes 48 carefully selected extensions (up from 47)
+- Extension pack now includes 49 carefully selected extensions (up from 47)
+- Added support for creating visual diagrams directly in markdown files
 
 ## [0.0.2] - 2025-07-15
 

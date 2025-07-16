@@ -2,7 +2,7 @@
   "name": "smooth-vscode-tips",
   "displayName": "Smooth Visual Studio Tips",
   "description": "Extension pack for smooth coding.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "/assets/vscode-tips-mini.png",
   "engines": {
     "vscode": "^1.102.0"
@@ -42,6 +42,7 @@
     "amazonwebservices.aws-toolkit-vscode",
     "bradlc.vscode-tailwindcss",
     "britesnow.vscode-toggle-quotes",
+    "bierner.markdown-mermaid",
     "buenon.scratchpads",
     "chakrounanas.turbo-console-log",
     "christian-kohler.npm-intellisense",
